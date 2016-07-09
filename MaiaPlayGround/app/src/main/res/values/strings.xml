@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MatheusMaiaPlayGround</string>
+    <string name="action_refresh">Refresco</string>
+    <string name="action_share">Share</string>
+    <string name="planetas">Escreva o nome de um planeta</string>
+    <string name="dica">Diga o nome de um planeta</string>
+    <string name="ecolhaplanetas">Esolha o mesmo planeta</string>
+    <string name="selecionePlaneta">Selecione o planteta</string>
+    <string name="animacaobutton">ANIMAR</string>
+</resources>
